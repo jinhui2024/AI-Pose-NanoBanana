@@ -1,0 +1,5 @@
+{
+  "name": "AI Pose Animator",
+  "description": "Upload a picture of a person, draw a stick figure pose, and let AI generate a new image with the person in the drawn pose.",
+  "requestFramePermissions": []
+}
