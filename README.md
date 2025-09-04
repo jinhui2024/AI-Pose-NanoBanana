@@ -6,7 +6,8 @@
 
 1. 先打开你自己的 AI Studio 并登录；
 2. 点击下方的 Demo 即可；
-3. AIStudio每天对各模型有使用额度限制，自行查看Free层级对用的额度 [➡️ 额度限制](https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn)
+3. AIStudio每天对各模型有使用额度限制，自行查看Free层级对用的额度 [➡️ 额度限制](https://ai.google.dev/gemini-api/docs/rate-limits?hl=zh-cn)；
+   
 **[➡️ 在 AiStudio 中打开并运行此项目](https://ai.studio/apps/drive/1PEMBcGY7_2drGlYl7c-ZN6BHjaX7fygm)**
 
 ## 工作原理：
