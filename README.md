@@ -7,7 +7,7 @@ An AI Studio application that brings static images to life by re-posing people a
   click the "Share" button at the top right, get the link, 
   and paste it here, replacing the placeholder URL.
 -->
-**[➡️ Open and run this project in AI Studio](https://aistudio.google.com/YOUR_SHARE_LINK_HERE)**
+**[➡️ Open and run this project in AI Studio](https://ai.studio/apps/drive/1K2VWLou3SmFZKdShk8NhJazqriI8F8Ly)**
 
 ## How It Works
 
