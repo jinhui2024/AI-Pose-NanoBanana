@@ -27,5 +27,7 @@
 - 我们利用 Google 刚刚上新的Nano Banana 进行测试。
 
 **AI 模型：通过 @google/genai SDK 的 gemini-2.5-flash-image-preview。**
+
 **样    式：Tailwind CSS（通过 CDN）**
+
 **环    境：本设计是让大家直接在 Google AI Studio 中运行，无需在本地配置环境。**
